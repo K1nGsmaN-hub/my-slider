@@ -4,6 +4,9 @@ It's a simple slider with arrow navigation and navigation panel.
 
 ## Initialization
 
+Please, download scripts/modules/slider.js file or clone this rep to your folder
+And import slider.js to your main js file
+
 ```js
 import slider from './modules/slider';
 ```
