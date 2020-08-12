@@ -35,7 +35,7 @@ slider({
 * wrapper - wrap field
 * field - block with all slides
 
-## Example
+## [Example](https://k1ngsman-hub.github.io/my-slider/)
 
 #### html
 ```html
